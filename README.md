@@ -18,6 +18,8 @@ JASSJF100 format requires two pieces of data to be sent: `age` and `passion`.
 The `age` is the sum of the digits of the form number displayed on a particular page, multiplied by 10.  
 It is never your age.   
 For example, if the `form number` is `2022`, then `age` is (2 + 0 + 2 + 2 ) x 10 = `600`.  
+Typically, the form number may be found in the "console" screen of the browser's developer tools.  
+Please use google to find out how to open your browser's developer tools.  
 
 ### Passion
 
