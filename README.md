@@ -28,7 +28,7 @@ For example, `JASSJF100_0123456789` is acceptable.
 
 #### Previous Version
 
-In previous versions, passion had to be prefixed with `passion_`, but the format has changed and above passion format with `JASSJF100_` is correct.
+In previous versions, passion had to be prefixed with `passion_`, but the format has changed and only above passion format with `JASSJF100_` is correct.
 
 ## Lisence
 
