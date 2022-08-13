@@ -30,6 +30,11 @@ For example, `JASSJF100_0123456789` is acceptable.
 
 In previous versions, passion had to be prefixed with `passion_`, but the format has changed and only above passion format with `JASSJF100_` is correct.
 
+#### latest version
+
+If required the latest version of JASSJF100, please add "latest" to the end of the above passion.  
+In that case, the total number of characters will be 26.  
+
 ## Lisence
 
 It is a very silly format and no one will use something like this.  
@@ -37,9 +42,6 @@ If by any chance there is someone crazy enough to want to use it, please feel fr
 I would be too embarrassed to go out if it were known that I was the author of such a stupid format.  
 
 
-## latest version
 
-If required the latest version of JASSJF100, please add "latest" to the end of the above passion.  
-In that case, the total number of characters will be 26.  
 
 
